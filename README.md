@@ -16,6 +16,6 @@
 
 无论您有任何疑惑，尽管来信，我们会尽快给您答复！
 
-邮箱地址：uqhc8@21cn.com
+邮箱地址：vfa312@163.com
 
 [隐私协议](https://github.com/ce43236716/chengrenyeyue/raw/master/privacy.cmd)
