@@ -18,4 +18,4 @@
 
 邮箱地址：vfa312@163.com
 
-[隐私协议](https://github.com/vfa312/yuehui123/blob/master/privacy.cmd)
+[隐私协议](https://raw.githubusercontent.com/vfa312/yuehui123/master/privacy.cmd)
